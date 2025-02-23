@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 
 namespace Assignment29{
+    //Part2
     public class CustomObject 
-    { //Part2
+    { 
         private int _ID;
         private string _Name;
 

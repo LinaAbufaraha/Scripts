@@ -4,10 +4,10 @@ using UnityEngine;
 using System;
 
 namespace Assignment29{
-
+//PartOne
     public class BasicsScript : MonoBehaviour
     {
-        //PartOne
+        
         void Start()
         {
             var num = 3;

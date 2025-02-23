@@ -2,9 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Assignment29{
+namespace Assignment29{ //Part2
     public class CustomObjectTest : MonoBehaviour
-    {//Part2
+    {  
         void Start()
         {
 
